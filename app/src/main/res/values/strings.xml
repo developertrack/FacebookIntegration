@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FacebookIntegration</string>
+    <string name="facebook_app_id">166659870574630</string>
+    <string name="fb_login_protocol_scheme">fb166659870574630</string>
+    <string name="title_activity_user_detal">UserDetal</string>
+</resources>
